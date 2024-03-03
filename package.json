@@ -1,0 +1,18 @@
+{
+"name": "cypressudemyproj",
+"version": "1.0.0",
+"description": "",
+"main": "e2e.js",
+"scripts": {
+  "cy:run": "cypress run",
+  "cy:open": "cypress open"
+},
+"author": "",
+"license": "ISC",
+"dependencies": {
+  "faker": "5.5.1"
+},
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
